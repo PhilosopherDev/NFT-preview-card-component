@@ -4,18 +4,17 @@
 - HTML CSS
 - [Challenge Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
-### 2022.1.21 금
-
-> #### 레이아웃 잡고 큰 얼개에 맞는 내용 넣기까지 완료.
 >
-> #### 남은 부분 체크
+> ### 체크 리스트 ✔️
 >
-> > #### 1. 모바일 레이아웃
+> > - #### 레이아웃 잡고 큰 얼개에 맞는 내용 넣기  ✔️
+> > 
+> > - #### 모바일 레이아웃
 > >
-> > #### 2. hover
+> > - #### hover
 > >
-> > #### 3. 라인 이쁘게 그리기 (O) - by hr tag
+> > - #### 라인 이쁘게 그리기  ✔️ - by hr tag
 > >
-> > #### 4. 아이콘이랑 글자 위치 조정 (O) - by flex, align-items
+> > - #### 아이콘이랑 글자 위치 조정  ✔️ - by flex, align-items
 > >
-> > #### 5. 위아래로 좁아졌을 때 처리
+> > - #### 위아래로 좁아졌을 때 처리
