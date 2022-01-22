@@ -74,6 +74,7 @@ table {
   background-color: hsl(216, 50%, 16%);
   padding: 27px;
   color: white;
+  border-radius: 1rem;
 }
 
 /* view */
