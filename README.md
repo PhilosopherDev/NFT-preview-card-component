@@ -1,19 +1,50 @@
-# NFT Preview Card Component
+# Frontend Mentor - NFT preview card component solution
 
-- NEWBIE
-- HTML CSS
-- [Challenge Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-> ### 체크 리스트 ✔️
->
-> > - #### 레이아웃 잡고 큰 얼개에 맞는 내용 넣기 ✔️
-> >
-> > - #### 모바일 레이아웃 ✔️ - 깨지지 않게 처리
-> >
-> > - #### hover - img 처리만 남음
-> >
-> > - #### 라인 이쁘게 그리기 ✔️ - by hr tag
-> >
-> > - #### 아이콘이랑 글자 위치 조정 ✔️ - by flex, align-items
-> >
-> > - #### 위아래로 좁아졌을 때 처리 ✔️ flex justify-content space-between
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Screenshot
+
+![Desktop Fullscreen](./screenshot/Desktop_Fullscreen.png)
+
+### Links
+
+- [Solution URL](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent)
+- [Live Site URL](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### Useful resources
+
+- [Image Hover](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity)
+- [Flex justify content - space between](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+
+### Author
+
+- Website - [BYUNGMIN CHOI](byungmin-choi.com)
+- Frontend Mentor - [@PhilosopherProgrammer](https://www.frontendmentor.io/profile/PhilosopherProgrammer)
