@@ -30,7 +30,7 @@ Users should be able to:
 
 - #### Desktop Vertical Halfscreen Top
 
-  ![Desktop Vertical Halfscreen Top](./screenshot/Desktop_Vertical_Halfscreen_Top.png)
+  ![Desktop Vertical Halfscreen Top](./screenshot/Desktop_Vertical_Halfscreen_top.png)
 
 - #### Desktop Vertical Halfscreen Bottom
 
