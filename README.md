@@ -24,7 +24,41 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Fullscreen](./screenshot/Desktop_Fullscreen.png)
+- #### Desktop Fullscreen
+
+  ![Desktop Fullscreen](./screenshot/Desktop_Fullscreen.png)
+
+- #### Desktop Vertical Halfscreen Top
+
+  ![Desktop Vertical Halfscreen Top](./Desktop_Vertical_Halfscreen_top.png)
+
+- #### Desktop Vertical Halfscreen Bottom
+
+  ![Desktop Vertical Halfscreen Bottom](./Desktop_Vertical_Halfscreen_bottom.png)
+
+- #### Mobile Fullscreen
+
+  ![Desktop Fullscreen](./screenshot/Mobile_Fullscreen.png)
+
+- #### Mobile Vertical Halfscreen Top
+
+  ![Mobile Vertical Halfscreen Top](./screenshot/Mobile_Vertical_Halfscreen_Top.png)
+
+- #### Mobile Vertical Halfscreen Bottom
+
+  ![Mobile Vertical Halfscreen Bottom](./screenshot/Mobile_Vertical_Halfscreen_Bottom.png)
+
+- #### Image Hover
+
+  ![Image Hover](./screenshot/Image_Hover.png)
+
+- #### Description Hover
+
+  ![Description Hover](./screenshot/Description_Hover.png)
+
+- #### User_Name_Hover
+
+  ![User_Name_Hover](./screenshot/User_Name_Hover.png)
 
 ### Links
 
