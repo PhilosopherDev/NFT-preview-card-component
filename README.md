@@ -56,9 +56,9 @@ Users should be able to:
 
   ![Description Hover](./screenshot/Description_Hover.png)
 
-- #### User_Name_Hover
+- #### User Name Hover
 
-  ![User_Name_Hover](./screenshot/User_Name_Hover.png)
+  ![User Name Hover](./screenshot/User_Name_Hover.png)
 
 ### Links
 
